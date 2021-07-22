@@ -2,7 +2,8 @@
 ### Overview of Election Audit
 #### The main objective of the election analysis is to report the total number of votes recorded, the total number of votes for each candidate, the percentage of votes for each candidate and the winner of the election based upon the popular vote. All the voting will be done using one of three primary voting methods which are mail-in ballots, punch cards and Direct Recording Electronic (DRE counting machines). The three voting methods will be taken into account to get the election results.
 
-
-
+### Election-Audit Results
+- #### 369,711 Total votes cast in the congressional election
+-
 ### Election Analysis Summary
 ##

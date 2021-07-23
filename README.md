@@ -7,7 +7,7 @@
 - #### Denver had the largest number of votes with 306,055 votes.
 - #### Diana DeGette was the winner of the election winning with 272,892 votes which calculates to 73.8% winning percentage of the total votes.
 - #### This is the breakdown of the number of votes and percentages of the total votes for each county in the precinct which are Jefferson, Denver and Arapahoe. This data also shows the number of votes and the percentages of the total votes each candidate received.
-<img width="302" alt="Election Analysis" src="https://user-images.githubusercontent.com/86431959/126725468-8ad0cf58-e061-4784-b8a8-4f7fc5d357f1.png">
+  <img width="302" alt="Election Analysis" src="https://user-images.githubusercontent.com/86431959/126725468-8ad0cf58-e061-4784-b8a8-4f7fc5d357f1.png">
 
 ### Election Analysis Summary
 ##

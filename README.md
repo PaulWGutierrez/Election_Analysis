@@ -13,5 +13,5 @@
 #### This script can be modified in several ways in regards to elections. One of the ways it could be modified is by getting data of the ages of the people that voted to see a trend, as well as getting the locations within counties, cities, regions etc., of where a particular age group had an impact on the votes. Another example that could be done regarding this script and doing a modification for other elections is to research the data of how the people voted. Obtaining data on whether a person voted in person, by mail, virtually or other voting methods could help with the candidates' campaigns in future elections. Using this data the candidate and his or her team could find out what would be the best and most productive way to promote and to reach out the most people possible. 
 
 ## Contact:
-##### E-mail: gutierrezpaul7@yahoo.com
+##### E-mail: gutierrezpaulw7@gmail.com
 ##### LinkedIn: https://www.linkedin.com/in/pwgutierrez
